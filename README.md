@@ -32,7 +32,7 @@ Estructura del proyecto
 
 Autor
 
-Brayan Stiven Vargas Rodríguez
+Brayan Stiven Vargas Rodríguez - 
 Angie Lorena Ramirez Ruiz
 
 Universidad Nacional Abierta y a Distancia (UNAD)
