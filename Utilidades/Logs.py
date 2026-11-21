@@ -1,6 +1,6 @@
 # ---------------------------------------------------------
 # Nombre del estudiante: Brayan Stiven Vargas Rodriguez
-# Grupo: 213023A_2204
+# Grupo: 213023_450
 # Programa: Ingenieria de sistemas (programacion) 
 # Código Fuente: autoría propia
 # ---------------------------------------------------------
