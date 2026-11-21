@@ -27,7 +27,9 @@ Estructura del proyecto
 "Main.py": archivo principal y ejecución de pruebas.
 "Modelos/": clases y lógica de clientes, servicios y reservas.
 "Utilidades/": excepciones personalizadas y sistema de registro.
+
 Autor: 
+
 Angie Lorena Ramírez.
 
 Universidad Nacional Abierta y a Distancia (UNAD)
